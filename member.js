@@ -1,5 +1,5 @@
 function skillMember() {
-    // ...existing code...
-    console.log("Skill member function executed");
-    // ...existing code...
+    return {
+        
+    }
 }
